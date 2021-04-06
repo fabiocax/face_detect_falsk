@@ -9,7 +9,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 numpy==1.20.2
-opencv-python-headless==4.5.1.48
+opencv-python==4.5.1.48
 requests==2.22.0
 urllib3==1.25.3
 Werkzeug==0.15.5
